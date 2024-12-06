@@ -1,5 +1,3 @@
-# opts_article_analysis
-
 # Stochastic Optimization with Heavy-Tailed Noise via Accelerated Gradient Clipping
 This repository is made for stepwise analyzing of the [article]([https://proceedings.mlr.press/v162/mishchenko22b.html](https://arxiv.org/abs/2005.10785)) 
 introducing the ClippedSGD and ClippedSSTM algorithms.
